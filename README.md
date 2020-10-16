@@ -19,7 +19,7 @@ Part of the [AWS Mirror Toolkit](https://github.com/3CORESec/aws-mirror-toolkit)
 ## Usage
 
 * Run tms_deletion.py: `python3 tms_deletion.py`
-* By default `tms_deletion.py` will utilize the description that is put in place by [3CS AutoMirror](https://github.com/3CORESec/AWS-AutoMirror): `Created by AutoMirror* 
+* By default `tms_deletion.py` will utilize the description that is put in place by [3CS AutoMirror](https://github.com/3CORESec/AWS-AutoMirror): `Created by AutoMirror`
   * Make the appropriate changes if you'd like to alter this behaviour. 
 
 <img src="https://i.imgur.com/vUYgoZl.png" alt="screenshot" />
