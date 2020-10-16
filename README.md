@@ -21,8 +21,9 @@ Automate the removal of AWS VPC Traffic Mirror Sessions.
 <img src="https://i.imgur.com/vUYgoZl.png" alt="screenshot" />
 
 # Feedback
-Found this interesting? Let us [know](https://twitter.com/3CORESec)!
+
+Found this interesting? Have a question/comment/request? Let us know! 
+
+Feel free to open an [issue](https://github.com/3CORESec/AWS-TMS-Remover/issues) or ping us on [Twitter](https://twitter.com/3CORESec).
 
 [![Twitter](https://img.shields.io/twitter/follow/3CORESec.svg?style=social&label=Follow)](https://twitter.com/3CORESec)
-
-If you run into a bug, question or have a feature request, please open an issue in the specific project page.
