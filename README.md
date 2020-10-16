@@ -11,7 +11,10 @@ Automate the removal of AWS VPC Traffic Mirror Sessions.
 
 * Clone the repository
 * `pip3 install -r requirements.txt`
-* AWS IAM requirements `ec2:DeleteTrafficMirrorSession` 
+* AWS IAM requirements 
+  * `ec2:DeleteTrafficMirrorSession`
+  * `ec2:DescribeTrafficMirrorSessions`
+  * `ec2:DescribeRegions`
 
 ## Usage
 
