@@ -2,7 +2,7 @@
 
 # AWS Traffic Mirror Session Remover
 
-Automate the removal of AWS VPC Traffic Mirror Sessions. 
+Part of the [AWS Mirror Toolkit](https://github.com/3CORESec/aws-mirror-toolkit), AWS TMS Remover automates the removal of AWS VPC Traffic Mirror Sessions. 
 
 [![image](https://img.shields.io/badge/BuiltOn-AWS-orange)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
